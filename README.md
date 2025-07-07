@@ -64,17 +64,3 @@ Open the Jupyter Notebook
 
 Run all the cells
 
-What’s Next
-I’d like to:
-
-Try other models like Random Forest and Logistic Regression for comparison
-
-Maybe deploy this using Streamlit for real-time prediction
-
-Explore model explainability using SHAP values
-
-Contact
-If you have suggestions or want to collaborate, feel free to reach out!
-
-Aniket Susgohar
-GitHub Profile
